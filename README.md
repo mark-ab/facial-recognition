@@ -1,0 +1,3 @@
+# facial-recognition
+# this facial recognition project helps u to identify the faces in the before the camera...
+let the code as it is if u'r importing an external camera then replace the cammand by changing the 0 to 1 in the parenthesis
